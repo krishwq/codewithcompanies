@@ -1,0 +1,8 @@
+[{"Difficulty":"MEDIUM","Title":"Minimum Number of Operations to Make X and Y Equal","Frequency":100.0,"Acceptance Rate":0.4769087674,"Link":"https:\/\/leetcode.com\/problems\/minimum-number-of-operations-to-make-x-and-y-equal","Topics":"Dynamic Programming, Breadth-First Search, Memoization"},
+{"Difficulty":"MEDIUM","Title":"Minimum Cost For Tickets","Frequency":65.1,"Acceptance Rate":0.6740606449,"Link":"https:\/\/leetcode.com\/problems\/minimum-cost-for-tickets","Topics":"Array, Dynamic Programming"},
+{"Difficulty":"MEDIUM","Title":"LRU Cache","Frequency":65.1,"Acceptance Rate":0.4443133831,"Link":"https:\/\/leetcode.com\/problems\/lru-cache","Topics":"Hash Table, Linked List, Design, Doubly-Linked List"},
+{"Difficulty":"EASY","Title":"Best Time to Buy and Sell Stock","Frequency":65.1,"Acceptance Rate":0.547700652,"Link":"https:\/\/leetcode.com\/problems\/best-time-to-buy-and-sell-stock","Topics":"Array, Dynamic Programming"},
+{"Difficulty":"HARD","Title":"Trapping Rain Water","Frequency":65.1,"Acceptance Rate":0.6428761327,"Link":"https:\/\/leetcode.com\/problems\/trapping-rain-water","Topics":"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"},
+{"Difficulty":"MEDIUM","Title":"Maximum Good Subarray Sum","Frequency":65.1,"Acceptance Rate":0.2002907187,"Link":"https:\/\/leetcode.com\/problems\/maximum-good-subarray-sum","Topics":"Array, Hash Table, Prefix Sum"},
+{"Difficulty":"MEDIUM","Title":"Best Time to Buy and Sell Stock II","Frequency":65.1,"Acceptance Rate":0.6885662533,"Link":"https:\/\/leetcode.com\/problems\/best-time-to-buy-and-sell-stock-ii","Topics":"Array, Dynamic Programming, Greedy"}
+]

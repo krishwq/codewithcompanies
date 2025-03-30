@@ -1,0 +1,14 @@
+[{"Difficulty":"MEDIUM","Title":"Longest Substring Without Repeating Characters","Frequency":100.0,"Acceptance Rate":0.3632673869,"Link":"https:\/\/leetcode.com\/problems\/longest-substring-without-repeating-characters","Topics":"Hash Table, String, Sliding Window"},
+{"Difficulty":"EASY","Title":"Two Sum","Frequency":97.8,"Acceptance Rate":0.5507386835,"Link":"https:\/\/leetcode.com\/problems\/two-sum","Topics":"Array, Hash Table"},
+{"Difficulty":"HARD","Title":"Leetcodify Friends Recommendations","Frequency":97.8,"Acceptance Rate":0.2769315471,"Link":"https:\/\/leetcode.com\/problems\/leetcodify-friends-recommendations","Topics":"Database"},
+{"Difficulty":"HARD","Title":"Leetcodify Similar Friends","Frequency":97.8,"Acceptance Rate":0.4248751702,"Link":"https:\/\/leetcode.com\/problems\/leetcodify-similar-friends","Topics":"Database"},
+{"Difficulty":"EASY","Title":"Moving Average from Data Stream","Frequency":97.8,"Acceptance Rate":0.7958760291,"Link":"https:\/\/leetcode.com\/problems\/moving-average-from-data-stream","Topics":"Array, Design, Queue, Data Stream"},
+{"Difficulty":"MEDIUM","Title":"Analyze User Website Visit Pattern","Frequency":92.6,"Acceptance Rate":0.4323115117,"Link":"https:\/\/leetcode.com\/problems\/analyze-user-website-visit-pattern","Topics":"Array, Hash Table, Sorting"},
+{"Difficulty":"EASY","Title":"Valid Parentheses","Frequency":85.9,"Acceptance Rate":0.4184520682,"Link":"https:\/\/leetcode.com\/problems\/valid-parentheses","Topics":"String, Stack"},
+{"Difficulty":"EASY","Title":"Valid Palindrome","Frequency":76.5,"Acceptance Rate":0.5015501277,"Link":"https:\/\/leetcode.com\/problems\/valid-palindrome","Topics":"Two Pointers, String"},
+{"Difficulty":"MEDIUM","Title":"Kth Largest Element in an Array","Frequency":76.5,"Acceptance Rate":0.676203896,"Link":"https:\/\/leetcode.com\/problems\/kth-largest-element-in-an-array","Topics":"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"},
+{"Difficulty":"MEDIUM","Title":"Step-By-Step Directions From a Binary Tree Node to Another","Frequency":60.4,"Acceptance Rate":0.5635914722,"Link":"https:\/\/leetcode.com\/problems\/step-by-step-directions-from-a-binary-tree-node-to-another","Topics":"String, Tree, Depth-First Search, Binary Tree"},
+{"Difficulty":"EASY","Title":"Valid Anagram","Frequency":60.4,"Acceptance Rate":0.6615054898,"Link":"https:\/\/leetcode.com\/problems\/valid-anagram","Topics":"Hash Table, String, Sorting"},
+{"Difficulty":"HARD","Title":"Find Median from Data Stream","Frequency":60.4,"Acceptance Rate":0.5297423418,"Link":"https:\/\/leetcode.com\/problems\/find-median-from-data-stream","Topics":"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"},
+{"Difficulty":"EASY","Title":"Ransom Note","Frequency":60.4,"Acceptance Rate":0.6391439157,"Link":"https:\/\/leetcode.com\/problems\/ransom-note","Topics":"Hash Table, String, Counting"}
+]

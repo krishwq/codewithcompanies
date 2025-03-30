@@ -6,8 +6,10 @@ import Navbar from "./Component/Navbar";
 
 function App() {
   const companies = [
-    "Google", "Microsoft", "Amazon", "Apple", "Facebook", "Tesla","Netflix", "Alibaba", "PayPal", "Adobe", 
-    "Nike", "IBM"
+ "Google", "Microsoft", "Amazon", "Apple", "Facebook", "Tesla", "Netflix", "Alibaba", "PayPal", "Adobe", 
+    "Nike", "IBM", "Uber", "LinkedIn", "Airbnb", "Twitter", "Samsung", "Walmart", "Oracle", "Intel", "Spotify", 
+     "Zomato", "Barclays", "GoldmanSachs", "Citadel",  "HCLTechnologies", "Deloitte", "Accenture", "JPMorgan", "Lyft", "Pinterest", "Snap", "Qualcomm", 
+    "Dropbox","PhonePe","Groww"
 ]
   return (
     <Router>

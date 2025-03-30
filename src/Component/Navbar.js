@@ -5,9 +5,8 @@ function Navbar() {
   const companies = [
     "Google", "Microsoft", "Amazon", "Apple", "Facebook", "Tesla", "Netflix", "Alibaba", "PayPal", "Adobe", 
     "Nike", "IBM", "Uber", "LinkedIn", "Airbnb", "Twitter", "Samsung", "Walmart", "Oracle", "Intel", "Spotify", 
-    "Shopify", "Zoom", "Adobe", "Barclays", "Goldman Sachs", "Citadel", "Uber", "Salesforce", "TikTok", "Walmart Labs", 
-    "Oracle", "HCL Technologies", "Deloitte", "Accenture", "JPMorgan Chase", "Lyft", "Pinterest", "Snap", "ByteDance", 
-    "Dropbox", "Square", "Stripe", "Workday", "Datadog", "Xiaomi", "Spotify", "TikTok", "Capital One","Groww"
+     "Zomato", "Barclays", "GoldmanSachs", "Citadel",  "HCLTechnologies", "Deloitte", "Accenture", "JPMorgan", "Lyft", "Pinterest", "Snap", "Qualcomm", 
+    "Dropbox","PhonePe","Groww"
 ]
 
   const [searchQuery, setSearchQuery] = useState(""); // State to store search input

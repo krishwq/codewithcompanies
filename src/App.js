@@ -1,24 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import Problems from "./Component/Problems";
+import googledata from "./Data/google.json";
+import Navbar from "./Component/Navbar";
 
 function App() {
+  const companies = [
+    "Google", "Microsoft"
+]
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Navbar/>
+      <Route exact path={"/"}>
+            <Problems company="Google" data={googledata} />
+        </Route>
+      <Switch>
+      {companies.map((company) => {
+        const companyName = company.toLowerCase().replace(/ /g, "").replace(/(,)/g, "").replace(/\(/g, "").replace(/\)/g, "");
+
+        const companyData = require(`./Data/${companyName}.json`);
+
+        return (
+          <Route exact path={`/${companyName}`} key={company}>
+            <Problems company={company} data={companyData} />
+          </Route>
+        );
+      })}
+    </Switch>
+
+    </Router>
   );
 }
 

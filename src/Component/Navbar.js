@@ -3,7 +3,7 @@ import menu from "./menu.png";
 import { Link } from "react-router-dom";
 function Navbar() {
   const companies = [
-    "Google", "Microsoft", "Amazon", "Apple", "Facebook (Meta)", "Tesla", "Netflix", "Alibaba", "PayPal", "Adobe", 
+    "Google", "Microsoft", "Amazon", "Apple", "Facebook", "Tesla", "Netflix", "Alibaba", "PayPal", "Adobe", 
     "Nike", "IBM", "Uber", "LinkedIn", "Airbnb", "Twitter", "Samsung", "Walmart", "Oracle", "Intel", "Spotify", 
     "Shopify", "Zoom", "Adobe", "Barclays", "Goldman Sachs", "Citadel", "Uber", "Salesforce", "TikTok", "Walmart Labs", 
     "Oracle", "HCL Technologies", "Deloitte", "Accenture", "JPMorgan Chase", "Lyft", "Pinterest", "Snap", "ByteDance", 

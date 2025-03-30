@@ -6,7 +6,8 @@ import Navbar from "./Component/Navbar";
 
 function App() {
   const companies = [
-    "Google", "Microsoft"
+    "Google", "Microsoft", "Amazon", "Apple", "Facebook", "Tesla","Netflix", "Alibaba", "PayPal", "Adobe", 
+    "Nike", "IBM"
 ]
   return (
     <Router>

@@ -18,6 +18,19 @@ function Navbar() {
   const refclose = useRef();
   return (
     <>
+    <div className="nav">
+      <div className="brand">
+        <Link to="/" className="brandname">CodeWithCompany</Link>
+      </div>
+    <button
+        className="navbutton"
+        onClick={() => {
+          ref.current.click();
+        }}
+      >
+        <img src={menu} alt="" />{" "}
+      </button>
+    </div>
       <a
         className="btn btn-primary d-none"
         data-bs-toggle="offcanvas"
@@ -28,14 +41,7 @@ function Navbar() {
       >
         Link with href
       </a>
-      <button
-        className="navbutton"
-        onClick={() => {
-          ref.current.click();
-        }}
-      >
-        <img src={menu} alt="" />{" "}
-      </button>
+      
 
       <div
         className="offcanvas offcanvas-start"
